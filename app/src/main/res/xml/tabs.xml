@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs xmlns:android="http://schemas.android.com/apk/res/android">
+    <tab
+        android:id="@+id/home"
+        drawable="@drawable/ic_baseline_home_24"
+        text="@string/home" />
+
+    <tab
+        android:id="@+id/donate"
+        drawable="@drawable/donate"
+        text="@string/donate" />
+    <tab
+        android:id="@+id/profile"
+        drawable="@drawable/ic_baseline_person_24"
+        text="@string/profile" />
+</tabs>
